@@ -1,13 +1,12 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=kvzanaokiji&style=flat-square&color=0D1117&label=FOULS) 
+![](https://komarev.com/ghpvc/?username=football-slop&style=flat-square&color=0D1117&label=placeholder) 
 
 [ata](https://pluuutoo.atabook.org/)
 
 
-<img width="736" height="414" alt="4121dc8ea33466f104e0f660eda03181" src="https://github.com/user-attachments/assets/a3e7f13b-cdea-4655-a33e-1b7e24a7ce31" />
-
+placeholder .
 
 <!--
 **kvzanaokiji/kvzanaokiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
