@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=football-slop&style=flat-square&color=0D1117&label=placeholder) 
 
-[ata](https://footballslop.atabook.org/)
+[footballbook](https://footballslop.atabook.org/)
 
 
 placeholder .
