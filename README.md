@@ -3,7 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=football-slop&style=flat-square&color=0D1117&label=_goals_)
 
-[footballbook](https://footballslop.atabook.org/)
 
 
 <img width="500" height="283" alt="A Definitive Ranking Of Sports From Least To Most Confusing" src="https://github.com/user-attachments/assets/fd5df97c-1d72-4d9d-b5bd-7c7b69639774" />
